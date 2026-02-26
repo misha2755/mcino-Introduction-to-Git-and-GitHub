@@ -1,0 +1,5 @@
+theia@theia-u24012250247:/home/project/mcino-Introduction-to-G
+it-and-GitHub$ git branch -vv
+* bug-fix-revert 0889419 reverted changes
+  bug-fix-typo   4280f90 2022-2023
+  main           4280f90 [origin/main: ahead 1] 2022-2023
